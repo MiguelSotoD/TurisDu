@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542687361114",
+    "project_id": "turisdu-fcc5a",
+    "storage_bucket": "turisdu-fcc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542687361114:android:90aa3f80f3e507df0d4063",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_587L9-F53C010W7zD74zQ3dn-wJYPQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
